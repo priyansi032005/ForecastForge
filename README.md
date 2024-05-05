@@ -3,7 +3,7 @@ This website provides information about the weather and climate in almost every 
 
 
 ![weather](https://user-images.githubusercontent.com/66964293/165958552-587ae392-3fe3-4ecb-b9a7-dcfcbe3bee05.gif)
-
+![Uploading Screenshot 2024-05-05 180025.png…]()
 
 ### Application Demo -
 
